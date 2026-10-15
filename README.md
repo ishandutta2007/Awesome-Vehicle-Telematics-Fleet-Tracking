@@ -28,7 +28,7 @@ Vehicle telematics bridges on-board automotive electronics with cloud telemetry 
 - [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [🏢 SaaS & Hosted Commercial Fleet Platforms](#-saas--hosted-commercial-fleet-platforms)
 - [🔓 Open-Source Telematics & Tracking Projects](#-open-source-telematics--tracking-projects)
-  - [⭐ Ranked Open-Source Repositories (By Star Count)](#-ranked-open-source-repositories-by-star-count)
+  - [⭐ Ranked Open-Source Repositories (By Stars_Count)](#-ranked-open-source-repositories-by-star-count)
   - [🗂️ Categorized Architecture Breakdown](#️-categorized-architecture-breakdown)
 - [🔌 Hardware Protocols & Vehicle Bus Standards](#-hardware-protocols--vehicle-bus-standards)
 - [🤝 How to Contribute](#-how-to-contribute)
@@ -71,11 +71,11 @@ Below is an extensive comparative analysis of premier commercial telematics and 
 
 Open-source telematics allows engineering teams, hobbyists, and privacy-conscious logistics providers to deploy self-hosted GPS servers, parse automotive CAN-bus frames, and build custom telemetry dashboards without recurring SaaS licensing fees.
 
-### ⭐ Ranked Open-Source Repositories (By Star Count)
+### ⭐ Ranked Open-Source Repositories (By Stars_Count)
 
 The table below catalogs premier open-source automotive telematics, OBD-II diagnostic tools, and GPS tracking stacks, **strictly sorted in descending order by GitHub stargazer count**.
 
-| Project & Repo Link 📦 | Stars Badge ⭐ | Primary Language 💻 | Architecture & Description 🛠️ |
+| Project & Repo Link 📦 | Stars_Badge ⭐ | Primary Language 💻 | Architecture & Description 🛠️ |
 | :--- | :---: | :---: | :--- |
 | [**commaai/openpilot**](https://github.com/commaai/openpilot) | [![Stars](https://img.shields.io/github/stars/commaai/openpilot?style=social&color=white)](https://github.com/commaai/openpilot/stargazers) | Python / C++ | Advanced open-source driver assistance system (ADAS) supporting 300+ car models. Records high-definition vehicular telemetry, CAN bus signals, camera footage, and GPS logs uploaded to cloud infrastructure. |
 | [**teslamate-org/teslamate**](https://github.com/teslamate-org/teslamate) | [![Stars](https://img.shields.io/github/stars/teslamate-org/teslamate?style=social&color=white)](https://github.com/teslamate-org/teslamate/stargazers) | Elixir / Docker | Highly popular self-hosted data logger for Tesla vehicles. Records drives, charging sessions, vampire drain, and degradation metrics into PostgreSQL/Grafana without sleep disruption. |
@@ -166,7 +166,7 @@ Contributions are warmly welcomed! Help make this the most thorough and up-to-da
    ```
 3. 📝 **Add or update entries**:
    - For **SaaS products**: include platform name, linked URL, verified company valuation/scale, specific starting tier pricing, specific free trial/tier limits, and a concise 1–2 sentence summary.
-   - For **Open-Source projects**: include repo link, shields.io star badge (`?style=social&color=white`) linking to `/stargazers`, language, and functional description. Maintain star-count sorting!
+   - For **Open-Source projects**: include repo link, shields.io Stars_Badge (`?style=social&color=white`) linking to `/stargazers`, language, and functional description. Maintain star-count sorting!
 4. 🚀 **Submit a Pull Request** with a brief summary of additions and sources.
 
 ---
